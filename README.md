@@ -5,6 +5,8 @@ This is the **admin dashboard** for **Marstan**, a gamified educational platform
 The backend supports **JWT-based authentication with refresh tokens** and enforces **role-based access control (RBAC)** to secure content management endpoints.
 
 ---
+[Download on Google Play](https://play.google.com/store/apps/details?id=education.ayata.marstan&hl=fr)
+
 
 ## 🚀 Features
 
